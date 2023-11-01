@@ -1,5 +1,12 @@
+
+
+<img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Banner Image" style="width: 100%; height: 300px;">
+
+
+<br>
 <h1 align="center">Hi 👋, I'm Aman Bisht</h1>
 <h3 align="center">Passionate CSE Student | Proficient in Python, Data Science, HTML, CSS and More</h3>
+<img align="right" alt="Coding" width="400" src="https://blog.imarticus.org/wp-content/uploads/2021/03/hggj.gif" >
 
 - 🌱 I’m currently learning **Machine Learning**
 
