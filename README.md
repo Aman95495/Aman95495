@@ -30,7 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aman95495&show_icons=true&locale=en" alt="aman95495" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aman95495&" alt="aman95495" /></p>
-
 [![An image of @aman95495's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aman95495)](https://holopin.io/@aman95495)
 
